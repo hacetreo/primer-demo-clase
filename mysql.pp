@@ -16,4 +16,4 @@ file_line { 'config line':
   path => '/etc/mysql/mysql.conf.d/mysqld.cnf',  
   line => 'secure_file_priv=""',
 }
-kl
+
